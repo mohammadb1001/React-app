@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.f8cccd27.css",
+    "main.css": "/React-app/static/css/main.ae8797e6.css",
     "main.js": "/React-app/static/js/main.b3f64a61.js",
     "static/js/787.b701888c.chunk.js": "/React-app/static/js/787.b701888c.chunk.js",
     "static/media/Corousel_img1.jpg": "/React-app/static/media/Corousel_img1.bd1a672d38ea7211b08a.jpg",
@@ -33,12 +33,12 @@
     "static/media/ser1.webp": "/React-app/static/media/ser1.a4a4bbbec0a5f7f1e211.webp",
     "static/media/ser3.webp": "/React-app/static/media/ser3.b685f261c1baabdf8a89.webp",
     "index.html": "/React-app/index.html",
-    "main.f8cccd27.css.map": "/React-app/static/css/main.f8cccd27.css.map",
+    "main.ae8797e6.css.map": "/React-app/static/css/main.ae8797e6.css.map",
     "main.b3f64a61.js.map": "/React-app/static/js/main.b3f64a61.js.map",
     "787.b701888c.chunk.js.map": "/React-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8cccd27.css",
+    "static/css/main.ae8797e6.css",
     "static/js/main.b3f64a61.js"
   ]
 }

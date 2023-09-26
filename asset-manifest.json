@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-app/static/css/main.fcb90291.css",
-    "main.js": "/React-app/static/js/main.ed3428fd.js",
+    "main.js": "/React-app/static/js/main.79ec475a.js",
     "static/js/787.b701888c.chunk.js": "/React-app/static/js/787.b701888c.chunk.js",
     "static/media/Corousel_img1.jpg": "/React-app/static/media/Corousel_img1.bd1a672d38ea7211b08a.jpg",
     "static/media/p4.png": "/React-app/static/media/p4.6b8b5b15f9558a6a254b.png",
@@ -37,11 +37,11 @@
     "static/media/ser3.webp": "/React-app/static/media/ser3.b685f261c1baabdf8a89.webp",
     "index.html": "/React-app/index.html",
     "main.fcb90291.css.map": "/React-app/static/css/main.fcb90291.css.map",
-    "main.ed3428fd.js.map": "/React-app/static/js/main.ed3428fd.js.map",
+    "main.79ec475a.js.map": "/React-app/static/js/main.79ec475a.js.map",
     "787.b701888c.chunk.js.map": "/React-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcb90291.css",
-    "static/js/main.ed3428fd.js"
+    "static/js/main.79ec475a.js"
   ]
 }

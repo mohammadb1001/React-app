@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-app/static/css/main.95d6be93.css",
-    "main.js": "/React-app/static/js/main.185dbefb.js",
+    "main.js": "/React-app/static/js/main.fc9e56cd.js",
     "static/js/787.b701888c.chunk.js": "/React-app/static/js/787.b701888c.chunk.js",
     "static/media/Corousel_img1.jpg": "/React-app/static/media/Corousel_img1.bd1a672d38ea7211b08a.jpg",
     "static/media/p4.png": "/React-app/static/media/p4.6b8b5b15f9558a6a254b.png",
@@ -11,12 +11,14 @@
     "static/media/Corousel_img2.jpg": "/React-app/static/media/Corousel_img2.8552311abab75e789260.jpg",
     "static/media/Corousel_img3.jpg": "/React-app/static/media/Corousel_img3.1111e68e220a789f2728.jpg",
     "static/media/p17.jpg": "/React-app/static/media/p17.639a1379e131f621629e.jpg",
+    "static/media/payoneerimg1.jpg": "/React-app/static/media/payoneerimg1.6bad8a2142420814c90f.jpg",
     "static/media/navbarLogo.png": "/React-app/static/media/navbarLogo.4f80d7a4c8da04ad7fcd.png",
     "static/media/stat-img-bottom.png": "/React-app/static/media/stat-img-bottom.e06f0ef50a793481d9f0.png",
     "static/media/p5.png": "/React-app/static/media/p5.6190bd31f592be810877.png",
     "static/media/p16.png": "/React-app/static/media/p16.67639e8477192fa8bacc.png",
     "static/media/p11.png": "/React-app/static/media/p11.9621da28948f9edb394d.png",
     "static/media/p9.png": "/React-app/static/media/p9.19c8c8979b54ec987ab2.png",
+    "static/media/aboutImg.jpg": "/React-app/static/media/aboutImg.30878341e84fc04182a8.jpg",
     "static/media/p3.png": "/React-app/static/media/p3.6f3c4f42e407629358ba.png",
     "static/media/T1.png": "/React-app/static/media/T1.dfa4d5f64dffb4d42042.png",
     "static/media/T2.png": "/React-app/static/media/T2.2b9073b67d59acd4d2bc.png",
@@ -40,11 +42,11 @@
     "static/media/ser3.webp": "/React-app/static/media/ser3.b685f261c1baabdf8a89.webp",
     "index.html": "/React-app/index.html",
     "main.95d6be93.css.map": "/React-app/static/css/main.95d6be93.css.map",
-    "main.185dbefb.js.map": "/React-app/static/js/main.185dbefb.js.map",
+    "main.fc9e56cd.js.map": "/React-app/static/js/main.fc9e56cd.js.map",
     "787.b701888c.chunk.js.map": "/React-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95d6be93.css",
-    "static/js/main.185dbefb.js"
+    "static/js/main.fc9e56cd.js"
   ]
 }
